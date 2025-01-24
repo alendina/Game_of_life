@@ -87,7 +87,16 @@ Different visualization methods:
 
 Scatter Plot: Highlights live and dead cells interactively using scatter points.
 
-Heatmap: Displays the grid as a binary matrix.
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/9f51062e-87cb-4896-989d-291daae33366" />
+
+N_steps: Print each step at the consol and Heatmap : Displays the grid as a binary matrix.
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/9b760ac2-6376-4782-a9b0-780e587c0372" />
+
+Show the changing grid in time:
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ff6ffc2c-a87e-4de3-aafe-400b5a19547e" />
+
 
 ## Notes
 
